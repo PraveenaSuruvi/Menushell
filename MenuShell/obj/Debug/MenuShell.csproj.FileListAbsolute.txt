@@ -1,0 +1,7 @@
+C:\Workspace\ECUtbildning\MenuShell\MenuShell\bin\Debug\MenuShell.exe.config
+C:\Workspace\ECUtbildning\MenuShell\MenuShell\bin\Debug\MenuShell.exe
+C:\Workspace\ECUtbildning\MenuShell\MenuShell\bin\Debug\MenuShell.pdb
+C:\Workspace\ECUtbildning\MenuShell\MenuShell\obj\Debug\MenuShell.csprojAssemblyReference.cache
+C:\Workspace\ECUtbildning\MenuShell\MenuShell\obj\Debug\MenuShell.csproj.CoreCompileInputs.cache
+C:\Workspace\ECUtbildning\MenuShell\MenuShell\obj\Debug\MenuShell.exe
+C:\Workspace\ECUtbildning\MenuShell\MenuShell\obj\Debug\MenuShell.pdb
